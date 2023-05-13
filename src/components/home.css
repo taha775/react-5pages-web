@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navbar{
+    margin: 0px;
+    padding: 0px;
+    background-color: green;
+    display: inline;
+    
+}

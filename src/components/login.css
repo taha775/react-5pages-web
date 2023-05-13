@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.logindiv{
+ 
+    color: yellow;
+    font-size: 25px;
+    padding: 50px;
+
+
+
+}
+
+.emailfield{
+    font-size: 30px;
+    color: rgb(39, 110, 143);
+    margin: auto;
+    margin-top: 40px;
+    
+}
+
+.passfield{
+    font-size: 30px;
+    color: rgb(39, 110, 143);
+    margin: auto;
+
+
+}
+
+
+.btnsubmit{
+    font-size: 30px;
+    color: rgb(39, 110, 143);
+    margin: auto;
+}
+
+h1{
+    margin-top: 50px;
+    text-decoration: underline;
+}
